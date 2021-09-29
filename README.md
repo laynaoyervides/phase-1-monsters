@@ -25,8 +25,8 @@ $ npm install -g json-server
 Then run the server with:
 
 ```console
-$ json-server monsters.json
-```
+```$ json-server monsters.json
+
 
 ## Deliverables
 
